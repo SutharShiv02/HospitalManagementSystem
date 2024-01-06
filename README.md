@@ -1,1 +1,1 @@
-"# HospitalManagementSystem" 
+ Hospital Management System — a solution designed for an enhanced healthcare experience. This system prioritizes patient convenience through user-friendly registration and appointment booking, coupled with a secure doctor login for efficient prescription management. Powered by a robust MySQL database and deployed on XAMPP for seamless integration, it revolutionizes healthcare operations.
